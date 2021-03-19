@@ -11,3 +11,5 @@ Practice problems
 
 4. Intersection of two sorted Linked lists
   Given two lists sorted in increasing order, create a new list representing the intersection of the two lists.
+
+5. Split circular list:- Program to split a circular linked list into two halves.

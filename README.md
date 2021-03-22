@@ -13,3 +13,12 @@ Practice problems
   Given two lists sorted in increasing order, create a new list representing the intersection of the two lists.
 
 5. Split circular list:- Program to split a circular linked list into two halves.
+
+6. Find pairs with given sum in doubly linked list:- 
+      Input : head : 1 <-> 2 <-> 4 <-> 5 <-> 6 <-> 8 <-> 9
+        x = 7
+      Output: (6, 1), (5,2)
+      
+7. Count triplets in a sorted doubly linked list whose sum is equal to a given value x
+
+8. Rotate doubly Linked list

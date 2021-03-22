@@ -19,6 +19,6 @@ Practice problems
         x = 7
       Output: (6, 1), (5,2)
       
-7. Count triplets in a sorted doubly linked list whose sum is equal to a given value x
+7.  TripletSUMinDDL:- Count triplets in a sorted doubly linked list whose sum is equal to a given value x
 
-8. Rotate doubly Linked list
+8. RotateDDLbyN:- Rotate doubly Linked list by N nodes

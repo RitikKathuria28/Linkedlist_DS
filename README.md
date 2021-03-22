@@ -14,7 +14,7 @@ Practice problems
 
 5. Split circular list:- Program to split a circular linked list into two halves.
 
-6. Find pairs with given sum in doubly linked list:- 
+6. SuminDDL:- Find pairs with given sum in doubly linked list:- 
       Input : head : 1 <-> 2 <-> 4 <-> 5 <-> 6 <-> 8 <-> 9
         x = 7
       Output: (6, 1), (5,2)
